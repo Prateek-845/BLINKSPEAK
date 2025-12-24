@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+  Close-Eyes       0.99      0.98      0.99      4194
+   Open-Eyes       0.98      0.99      0.99      4296
+
+    accuracy                           0.99      8490
+   macro avg       0.99      0.99      0.99      8490
+weighted avg       0.99      0.99      0.99      8490
