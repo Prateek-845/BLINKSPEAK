@@ -17,7 +17,9 @@ MORSE_CODE_DICT = {
     
     # Custom Commands
     '----': '[BACKSPACE]',   
-    '-----': '[CLEAR]'      
+    '-----': '[CLEAR]',
+    '..--': '[SPACE]',    
+    '.-.-': '[NEWLINE]'   
 }
 
 def get_char(sequence):
