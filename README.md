@@ -10,6 +10,13 @@
 
 Using a standard webcam, BlinkSpeak employs a custom **11 layer Convolutional Neural Network (CNN)** to detect voluntary eye blinks and a deterministic state machine to translate them into **Morse Code** which gets converted into text.
 
+---
+## Demo Video - Click the Image
+<p align="center">
+  <a href="https://youtu.be/qCHumGJI3x0">
+    <img src="thumbnail.png" alt="BlinkSpeak Demo Video" width="800">
+  </a>
+</p>
 
 ---
 
